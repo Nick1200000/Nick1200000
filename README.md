@@ -20,46 +20,63 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Nikhil Kumar! 👋
 
+## About Me
+I'm a dedicated DevOps Engineer with a passion for automating processes and optimizing infrastructure. My expertise spans across various DevOps tools and technologies, ensuring robust and efficient development workflows.
+
 ## 🔭 Current Projects
 I'm actively working on:
-- AWS
-- Terraform
-- CI / CD
-- Jenkins
-- Docker
-- Kubernetes
-- Web Server
-- Nginx
-- Sonar Qube
-- Apche Tomcat
-- 
+- **AWS**: Designing and managing scalable and secure cloud infrastructure.
+- **Linux**: Leveraging the power of Linux for development and deployment environments.
+- **Shell Scripting**: Automating routine tasks and managing server configurations.
+- **Python**: Writing automation scripts and tools.
+- **Java**: Developing and deploying Java applications.
+- **Web Servers**: Configuring and managing web servers.
+- **HTTP**: Understanding and utilizing HTTP protocols for web communication.
+- **Apache Tomcat**: Deploying and managing Java-based web applications.
+- **Nginx**: Implementing Nginx for reverse proxy, load balancing, and serving static content.
+- **Jenkins**: Creating and maintaining CI/CD pipelines for automated build, test, and deployment.
+- **Docker**: Containerizing applications for consistent and scalable deployments.
+- **Kubernetes**: Orchestrating containerized applications for high availability and resilience.
+- **Travis CI**: Implementing CI/CD pipelines with Travis CI.
+- **Prometheus**: Monitoring system and application metrics.
+- **Grafana**: Visualizing monitoring data for actionable insights.
+- **SQL**: Managing and querying relational databases.
+- **Maven**: Building and managing Java project dependencies.
+- **SonarQube**: Ensuring code quality and security through continuous inspection.
+- **Terraform**: Defining infrastructure as code for consistent and reproducible environments.
 
 ## 🌱 Learning
 Currently diving deeper into:
-- AWS RDS
+- **AWS RDS**: Mastering relational database services for scalable database solutions.
 
 ## 👯 Collaboration
 I'm looking to collaborate on:
-- DevOps
+- **DevOps Projects**: Open to collaborating on projects related to DevOps practices and tools.
 
 ## 🤔 Help Wanted
 Looking for assistance with:
-- MLOps
+- **MLOps**: Seeking guidance and collaboration on integrating DevOps practices in Machine Learning projects.
 
 ## 💬 Ask Me About
 Feel free to ask me about:
-- Myself
+- My experience and projects in DevOps
+- Best practices in CI/CD and automation
+- Cloud infrastructure and container orchestration
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/nikhil-kumar-4bbb7a216)
-- [Phone No.](+91 6206543568)
-- [Gmail](kumarn7570@gmail.com)
+- Phone: +91 6206543568
+- Email: kumarn7570@gmail.com
 
 ## 😄 Pronouns
 He/Him
 
 ## ⚡ Fun Fact
-I love travelling!
+I love travelling and exploring new places!
+
+---
+
+Thank you for visiting my profile! I'm always excited to connect with like-minded professionals and explore new opportunities in the DevOps realm. Let's build something great together!
 
 
 
