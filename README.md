@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on AWS, TERRAFORM, JENKINS, DOCKER , KUBERNETES
 - 🌱 I’m currently learning AWS RDS
 - 👯 I’m looking to collaborate on DEVOPS
-- 🤔 I’m looking for help with 
-- 💬 Ask me about 
+- 🤔 I’m looking for help with MLOPS
+- 💬 Ask me about Myself
 - 📫 How to reach me: www.linkedin.com/in/nikhil-kumar-4bbb7a216
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Travelling
