@@ -24,9 +24,15 @@ Here are some ideas to get you started:
 I'm actively working on:
 - AWS
 - Terraform
+- CI / CD
 - Jenkins
 - Docker
 - Kubernetes
+- Web Server
+- Nginx
+- Sonar Qube
+- Apche Tomcat
+- 
 
 ## 🌱 Learning
 Currently diving deeper into:
@@ -46,6 +52,8 @@ Feel free to ask me about:
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/nikhil-kumar-4bbb7a216)
+- [Phone No.](+91 6206543568)
+- [Gmail](kumarn7570@gmail.com)
 
 ## 😄 Pronouns
 He/Him
