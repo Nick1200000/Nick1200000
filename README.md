@@ -169,7 +169,7 @@ Thank you for visiting my profile! I'm always excited to connect with like-minde
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
--->
+
 # Hi there, I'm Nikhil Kumar! 👋
 
 ## About Me
@@ -241,4 +241,76 @@ Thank you for visiting my profile! I'm always excited to connect with like-minde
 | ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) |
 | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) |
 | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) | ![Travis CI](https://img.shields.io/badge/TravisCI-3EAAAF?style=for-the-badge&logo=travis-ci&logoColor=white) |
+-->
+# Hi there, I'm Nikhil Kumar! 👋
 
+## About Me
+I'm a dedicated DevOps Engineer with a passion for automating processes and optimizing infrastructure. My expertise spans across various DevOps tools and technologies, ensuring robust and efficient development workflows.
+
+## 🔭 **Current Projects**
+I'm actively working on:
+- **Automating Infrastructure with Terraform**: Implementing infrastructure as code to automate the provisioning and management of cloud resources.
+- **CI/CD Pipeline Development**: Building and maintaining continuous integration and deployment pipelines using Jenkins and Travis CI.
+- **Container Orchestration with Kubernetes**: Deploying, managing, and scaling containerized applications.
+- **Monitoring and Visualization**: Setting up Prometheus and Grafana for monitoring and visualizing system and application metrics.
+- **Web Server Management**: Configuring and managing web servers using Nginx and Apache Tomcat.
+
+## 🌟 **Skills**
+- **Cloud Platforms**: AWS
+- **Operating Systems**: Linux
+- **Scripting and Programming**: Shell Scripting, Python, Java
+- **Web Technologies**: HTTP, Web Servers
+- **Servers**: Apache Tomcat, Nginx
+- **CI/CD Tools**: Jenkins, Travis CI
+- **Containerization**: Docker
+- **Container Orchestration**: Kubernetes
+- **Monitoring**: Prometheus, Grafana
+- **Databases**: SQL
+- **Build Tools**: Maven
+- **Code Quality**: SonarQube
+- **Infrastructure as Code**: Terraform
+
+## 🌱 Learning
+Currently diving deeper into:
+- **AWS RDS**: Mastering relational database services for scalable database solutions.
+
+## 👯 Collaboration
+I'm looking to collaborate on:
+- **DevOps Projects**: Open to collaborating on projects related to DevOps practices and tools.
+
+## 🤔 Help Wanted
+Looking for assistance with:
+- **MLOps**: Seeking guidance and collaboration on integrating DevOps practices in Machine Learning projects.
+
+## 💬 Ask Me About
+Feel free to ask me about:
+- My experience and projects in DevOps
+- Best practices in CI/CD and automation
+- Cloud infrastructure and container orchestration
+
+## 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/nikhil-kumar-4bbb7a216)
+- Phone: +91 6206543568
+- Email: kumarn7570@gmail.com
+
+## 😄 Pronouns
+He/Him
+
+## ⚡ Fun Fact
+I love travelling and exploring new places!
+
+---
+
+Thank you for visiting my profile! I'm always excited to connect with like-minded professionals and explore new opportunities in the DevOps realm. Let's build something great together!
+
+## 🛠️ Languages and Tools
+
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+|---|---|---|
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) | ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) |
+| ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) |
+| ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) | ![Travis CI](https://img.shields.io/badge/TravisCI-3EAAAF?style=for-the-badge&logo=travis-ci&logo
