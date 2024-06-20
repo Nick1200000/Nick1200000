@@ -245,7 +245,7 @@ I love travelling and exploring new places!
 
 ## About Me
 I'm a dedicated DevOps Engineer with a passion for automating processes and optimizing infrastructure. My expertise spans across various DevOps tools and technologies, ensuring robust and efficient development workflows.
-
+ ---
 ## 🔭 **Current Projects**
 I'm actively working on:
 - **Automating Infrastructure with Terraform**: Implementing infrastructure as code to automate the provisioning and management of cloud resources.
@@ -253,7 +253,7 @@ I'm actively working on:
 - **Container Orchestration with Kubernetes**: Deploying, managing, and scaling containerized applications.
 - **Monitoring and Visualization**: Setting up Prometheus and Grafana for monitoring and visualizing system and application metrics.
 - **Web Server Management**: Configuring and managing web servers using Nginx and Apache Tomcat.
-
+---
 ## 🌟 **Skills**
 - **Cloud Platforms**: AWS
 - **Operating Systems**: Linux
@@ -268,30 +268,30 @@ I'm actively working on:
 - **Build Tools**: Maven
 - **Code Quality**: SonarQube
 - **Infrastructure as Code**: Terraform
-
+---
 ## 🌱 Learning
 Currently diving deeper into:
 - **AWS RDS**: Mastering relational database services for scalable database solutions.
-
+---
 ## 👯 Collaboration
 I'm looking to collaborate on:
 - **DevOps Projects**: Open to collaborating on projects related to DevOps practices and tools.
-
+---
 ## 🤔 Help Wanted
 Looking for assistance with:
 - **MLOps**: Seeking guidance and collaboration on integrating DevOps practices in Machine Learning projects.
-
+---
 ## 💬 Ask Me About
 Feel free to ask me about:
 - My experience and projects in DevOps
 - Best practices in CI/CD and automation
 - Cloud infrastructure and container orchestration
-
+---
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/nikhil-kumar-4bbb7a216)
 - Phone: +91 6206543568
 - Email: kumarn7570@gmail.com
-
+---
 ## 😄 Pronouns
 He/Him
 
