@@ -255,19 +255,23 @@ I'm actively working on:
 - **Web Server Management**: Configuring and managing web servers using Nginx and Apache Tomcat.
   
 ## 🌟 **Skills**
-- **Cloud Platforms**: AWS
+- **Cloud Platforms**: AWS, GCP
 - **Operating Systems**: Linux
-- **Scripting and Programming**: Shell Scripting, Python, Java
-- **Web Technologies**: HTTP, Web Servers
+- **Scripting and Programming**: Shell Scripting, Python, Java, YAML
+- **Web Technologies**: HTML, CSS, HTTP
 - **Servers**: Apache Tomcat, Nginx
-- **CI/CD Tools**: Jenkins, Travis CI
+- **CI/CD Tools**: Jenkins, GitLab CI/CD, Travis CI
+- **Version Control**: Git, GitHub
 - **Containerization**: Docker
 - **Container Orchestration**: Kubernetes
+- **Configuration Management**: Ansible
 - **Monitoring**: Prometheus, Grafana
 - **Databases**: SQL
 - **Build Tools**: Maven
 - **Code Quality**: SonarQube
+- **Artifact Management**: Nexus
 - **Infrastructure as Code**: Terraform
+
   
 ## 🌱 Learning
 Currently diving deeper into:
@@ -323,7 +327,6 @@ I love travelling and exploring new places!
 | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![GitLab CI/CD](https://img.shields.io/badge/GitLab-CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) |
 | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) |
 | ![Nexus](https://img.shields.io/badge/Nexus-4E77AF?style=for-the-badge&logo=sonatype&logoColor=white) | ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white) |
-
 
 ---
 
