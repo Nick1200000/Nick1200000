@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
--->
+
 
 - 🔭 I’m currently working on AWS, TERRAFORM, JENKINS, DOCKER , KUBERNETES
 - 🌱 I’m currently learning AWS RDS
@@ -15,6 +15,44 @@ Here are some ideas to get you started:
 - 📫 How to reach me: www.linkedin.com/in/nikhil-kumar-4bbb7a216
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Travelling
+
+-->
+
+# Hi there, I'm Nikhil Kumar! 👋
+
+## 🔭 Current Projects
+I'm actively working on:
+- AWS
+- Terraform
+- Jenkins
+- Docker
+- Kubernetes
+
+## 🌱 Learning
+Currently diving deeper into:
+- AWS RDS
+
+## 👯 Collaboration
+I'm looking to collaborate on:
+- DevOps
+
+## 🤔 Help Wanted
+Looking for assistance with:
+- MLOps
+
+## 💬 Ask Me About
+Feel free to ask me about:
+- Myself
+
+## 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/nikhil-kumar-4bbb7a216)
+
+## 😄 Pronouns
+He/Him
+
+## ⚡ Fun Fact
+I love travelling!
+
 
 
 <h3 align="left">Languages and Tools:</h3>
