@@ -228,7 +228,6 @@ I love travelling and exploring new places!
 
 ---
 
-Thank you for visiting my profile! I'm always excited to connect with like-minded professionals and explore new opportunities in the DevOps realm. Let's build something great together!
 
 ## 🛠️ Languages and Tools
 
@@ -300,9 +299,6 @@ He/Him
 I love travelling and exploring new places!
 
 ---
-
-Thank you for visiting my profile! I'm always excited to connect with like-minded professionals and explore new opportunities in the DevOps realm. Let's build something great together!
-
 ## 🛠️ Languages and Tools
 <!--
 | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
@@ -324,3 +320,8 @@ Thank you for visiting my profile! I'm always excited to connect with like-minde
 | ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) |
 | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) |
 | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) | ![Travis CI](https://img.shields.io/badge/TravisCI-3EAAAF?style=for-the-badge&logo=travis-ci&logoColor=white) |
+
+---
+
+Thank you for visiting my profile! I'm always excited to connect with like-minded professionals and explore new opportunities in the DevOps realm. Let's build something great together!
+
