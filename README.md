@@ -275,7 +275,7 @@ I'm actively working on:
   
 ## 🌱 Learning
 Currently diving deeper into:
-- **AWS RDS**: Mastering relational database services for scalable database solutions.
+- **Kubiya**: AI tool made to perform devops tasks.
 
 ## 👯 Collaboration
 I'm looking to collaborate on:
