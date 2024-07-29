@@ -46,7 +46,7 @@ I'm actively working on:
 
 ## 🌱 Learning
 Currently diving deeper into:
-- **AWS RDS**: Mastering relational database services for scalable database solutions.
+- **Kubiya**: AI tool widely used in the DevOPs
 
 ## 👯 Collaboration
 I'm looking to collaborate on:
