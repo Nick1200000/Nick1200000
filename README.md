@@ -241,7 +241,7 @@ I love travelling and exploring new places!
 | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) |
 | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) | ![Travis CI](https://img.shields.io/badge/TravisCI-3EAAAF?style=for-the-badge&logo=travis-ci&logoColor=white) |
 -->
-# Hi there, I'm Nikhil Kumar! 👋
+# Hi there, I'm Nikhil! 👋
 
 ## About Me
 I'm a dedicated DevOps Engineer with a passion for automating processes and optimizing infrastructure. My expertise spans across various DevOps tools and technologies, ensuring robust and efficient development workflows.
